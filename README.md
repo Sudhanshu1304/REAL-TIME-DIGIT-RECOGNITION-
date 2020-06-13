@@ -9,3 +9,4 @@ Using Tkinter and *CONSTITUTIONAL NEURAL NETWORK *
 
 ![](OUTPUT/6_INPUT.png)
 
+![](OUTPUT/6_OUTPUT.png)
