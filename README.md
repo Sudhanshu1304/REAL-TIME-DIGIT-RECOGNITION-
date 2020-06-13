@@ -7,4 +7,5 @@ Using Tkinter and *CONSTITUTIONAL NEURAL NETWORK *
 
 2. In this I have USED *TKINTER GUI* To Take Data from the User Which  Convertes the Image Pixals into A Numpy Array.
 
+![](OUTPUT/6_INPUT.png)
 
