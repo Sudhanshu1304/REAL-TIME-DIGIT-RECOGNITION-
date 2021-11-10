@@ -1,5 +1,5 @@
 # Real-Time-Digit-Recognition
-Using Tkinter and *CONSTITUTIONAL NEURAL NETWORK *
+Using Tkinter and **Convolutional  Neural Network**
 
 
 
